@@ -89,4 +89,3 @@ if error > tolerance:
 else:
     print(f"\nConverged TOGW: {TOGW_guess}lb")
     print("Iterations:", iteration)
-
